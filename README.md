@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I am an Android Developer at **Yemeksepeti**
+- 💻 I am an Android Developer at **Delivery Hero**
 - 📒 I graduated software engineer department from Celal Bayar University.
 
 ![İrem's github stats](https://github-readme-stats.vercel.app/api?username=iremcelikbilek&show_icons=true&line_height=30&theme=dark)
